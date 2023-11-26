@@ -48,3 +48,5 @@ A well-documented  Jupyter  Notebook  or  report  containing  code  and explanat
 
 Transaction encoding is the process of converting transactional data into a binary matrix format where rows represent transactions and columns represent unique items. Each cell in the matrix indicates whether a particular item was present (1) or absent (0) in a transaction. 
 
+### APRIORI ALGORITHM
+To use the Apriori algorithm for transactional data in Python, you can use the mlxtend library, which provides a convenient implementation of the Apriori algorithm. Here's a step-by-step guide:
