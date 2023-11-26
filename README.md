@@ -43,6 +43,7 @@ A well-documented  Jupyter  Notebook  or  report  containing  code  and explanat
 
 ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
 
+## MARKET BASKET ANALYSIS
 
 ### PERFORMING TRANSACTIONAL ENCODING
 
