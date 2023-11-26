@@ -25,7 +25,7 @@ A  well-documented  Jupyter  Notebook  or  report  containing  code  and explana
 • A presentation or report for your mentorship group.
 • A GitHub repository with documentation and code.
 
-### LOAD DATASET
+### IMPORT NECESSARY LIBRARIES AND OS
 
 ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/b1fde7c0-aa33-4617-bb1c-6fcdb987a6c4)
 
@@ -37,3 +37,7 @@ A  well-documented  Jupyter  Notebook  or  report  containing  code  and explana
 2. Viewing Top 10 Data 
 3. Checking the Total number of Row and columns, Datatypes
 4. checking missing Value
+
+LOAD DATA 
+   ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
+
