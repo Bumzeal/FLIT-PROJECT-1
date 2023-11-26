@@ -2,7 +2,7 @@
 
 
 ## TASK OBJECTIVE
-The goal of this project is to introduce you to the concept of market basket analysis, which is a crucial aspect of data science in retail and e-commerce. You will learn how to extract valuable insights from transaction data, understand customer purchasing behavior, and use this knowledge for business optimization. Click for dataset
+The goal of this project is to introduce you to the concept of market basket analysis, which is a crucial aspect of data science in retail and e-commerce. You will learn how to extract valuable insights from transaction data, understand customer purchasing behavior, and use this knowledge for business optimization.
 
 ## TOOLS USED FOR THE PROJECT
 * Data Analysis Tool (Python: using Libries such as Pandas)
