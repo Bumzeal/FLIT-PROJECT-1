@@ -43,7 +43,7 @@ A  well-documented  Jupyter  Notebook  or  report  containing  code  and explana
 ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
 
 
-PERFORMING TRANSACTIONAL ENCODING
+### PERFORMING TRANSACTIONAL ENCODING
 
 Transaction encoding is the process of converting transactional data into a binary matrix format where rows represent transactions and columns represent unique items. Each cell in the matrix indicates whether a particular item was present (1) or absent (0) in a transaction. 
 
