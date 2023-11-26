@@ -20,10 +20,11 @@ The goal of this project is to introduce you to the concept of market basket ana
 6. Recommendations
 
 ## Deliverables 
-A  well-documented  Jupyter  Notebook  or  report  containing  code  and explanations.
-• Visualizations that support your findings.
-• A presentation or report for your mentorship group.
-• A GitHub repository with documentation and code.
+A well-documented  Jupyter  Notebook  or  report  containing  code  and explanations.
+
+•  Visualizations that support your findings.
+•  A presentation or report for your mentorship group.
+•  A GitHub repository with documentation and code.
 
 ### IMPORT NECESSARY LIBRARIES AND OS
 
