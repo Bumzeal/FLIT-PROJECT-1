@@ -38,6 +38,7 @@ A  well-documented  Jupyter  Notebook  or  report  containing  code  and explana
 3. Checking the Total number of Row and columns, Datatypes
 4. checking missing Value
 
-LOAD DATA 
-   ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
+### LOAD DATA 
+
+![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
 
