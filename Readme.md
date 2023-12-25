@@ -1,6 +1,8 @@
 # FLIT-PROJECT- MARKET BASKET ANALYSIS IMPLEMENTATION
+!![Market_Analysis](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/d0e4b8b9-de00-4e6e-b71e-5b28ea677433)
 
-Product recommendations is a great way to drive sales by offering customers relevant products of interest. There are different algorithms used to generate product recommendations, For this Project,I Used — Association Rules (Market Basket Analysis).
+
+Product recommendation is a great way to drive sales by offering customers relevant products of interest. Different algorithms are used to generate product recommendations, For this Project, I Used — Association Rules (Market Basket Analysis).
 
 Market Basket Analysis is a key technique used by data scientists to uncover associations between Products, This helps to discover interesting relationships, patterns, or associations within large datasets for large retailers(transactional data). Examples of such Could be To detect if the customers who purchase bread have a 60% likelihood to purchase Jam or Butter and customers who purchase laptops are more likely to purchase laptop Bags.
 
@@ -9,7 +11,7 @@ This analysis can be achieved Using Association Rule Mining (Apriori Algorithm),
 
 
 ## TASK OBJECTIVE
-This project captures End to End Market Basket Analysis for retail/E-commerce Transactional data, It aims to discover which Items are frequently purchased together and provide Recommendations, This will be achieved by performing Predictive Analysis using association rule mining (Apriori Algorithm). I've highlighted the Areas Covered and Tools used for this Project below.
+This project captures end-to-end market Basket Analysis for retail/E-commerce Transactional data, It aims to discover which Items are frequently purchased together and provide Recommendations, This will be achieved by performing Predictive Analysis using association rule mining (Apriori Algorithm). I've highlighted the Areas Covered and Tools used for this Project below.
 
 OUTLINE 
 1. Data Preparation
