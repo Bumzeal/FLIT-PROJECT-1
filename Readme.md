@@ -1,15 +1,15 @@
 # FLIT-PROJECT- MARKET BASKET ANALYSIS IMPLEMENTATION
 
-Product recommendations have always been a great way to drive sales by offering customers relevant products of interest. There is a wide range of algorithms used to generate product recommendations, however, in this Project,My focus will be — Association Rules (Market Basket Analysis).
+Product recommendations is a great way to drive sales by offering customers relevant products of interest. There are different algorithms used to generate product recommendations, For this Project,I Used — Association Rules (Market Basket Analysis).
 
-Market Basket Analysis is a key a technique used by data Scientist to uncover associations between Products,This helps to discovers interesting relationships, patterns, or associations within large datasets for large retailers(transactional data). Examples of such Could be To detect if the customers who purchase bread have 60% likelihood to purchase Jam or Butter and customers who purchase laptop are more likely to purchase laptop Bags.
+Market Basket Analysis is a key technique used by data scientists to uncover associations between Products, This helps to discover interesting relationships, patterns, or associations within large datasets for large retailers(transactional data). Examples of such Could be To detect if the customers who purchase bread have a 60% likelihood to purchase Jam or Butter and customers who purchase laptops are more likely to purchase laptop Bags.
 
-This analysis can be achieved Using Association Rule Mining (Apriori Algorithm), For this Project I used Apriori Algorithm to find Association between the Itemsets, Provide Recommendation on Products that Should be placed together to Increase The Organization Revenue.
+This analysis can be achieved Using Association Rule Mining (Apriori Algorithm), For this Project, I used the Apriori Algorithm to find the Association between the Itemsets and provide Recommendations on Products that Should be placed together to Increase The Organization's Revenue.
 
 
 
 ## TASK OBJECTIVE
-This project captures End to End Market Basket Analysis for a retail/ Ecommerce Transactional data,It aims to discover which Items are frequently purchased together and provide Recommendations, This will be achieved by performing Predictive Analysis using association rule mining (Apriori Algorithm).Highlighted Below are Areas Covered and Tools used for this Project.
+This project captures End to End Market Basket Analysis for retail/E-commerce Transactional data, It aims to discover which Items are frequently purchased together and provide Recommendations, This will be achieved by performing Predictive Analysis using association rule mining (Apriori Algorithm). I've highlighted the Areas Covered and Tools used for this Project below.
 
 OUTLINE 
 1. Data Preparation
@@ -26,35 +26,35 @@ TOOLS USED FOR THE PROJECT
 * Jupyter Notebook
 
 
-## PART 1- IMPORTING REQUIRE LIBRARIES AND OS,DATA 
-I Imported the required libraries needed for the project such as Pandas, Matplolib,Seaborn, Apriori Algorithm, load and Read the data into the Jupiter notebook as in the fig below: 
+## PART 1- IMPORTING REQUIRED LIBRARIES, OS AND READING DATA 
+I Imported the required libraries needed for the project such as Pandas, Matplolib, Seaborn, and Apriori Algorithm, loaded and Read the data into the Jupiter notebook as in the fig below: 
 
 ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/b1fde7c0-aa33-4617-bb1c-6fcdb987a6c4)
 
-LOAD NECCESARY PACKAGES AND DATA 
+LOAD NECESSARY PACKAGES AND DATA 
 
 ![image](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/bf51e6e6-385c-47c8-8c62-88405c972311)
 
 ## PART 2 - DATA PREPARATION &  EXPLORATORY DATA ANALYSIS
-I performed the Data Cleaning and Exploratory Data Analysis and Check the data Imformation as listed Below:
+I performed the Data Cleaning and Exploratory Data Analysis and Check the data Information as listed Below:
 
 1. View Top 10 Data 
 2. Check the Total number of Row and columns and Datatypes
-3. check For missing Value
-4. Review TOp 20 most Purchased Itemset as well as the lowest purchase
+3. Check for missing Value
+4. Review Top 20 most Purchased Itemset as well as the lowest purchase
 
 
 ## PART 3 -  MARKET BASKET ANALYSIS (Association Rule Mining - APRIORI ALGORITHM) 
-Apriori Algorithm is a widely-used and well-known Association Rule algorithm and is a popular algorithm used in market basket analysis,Association Rule Mining a technique that shows how items are associated with each other.
+Apriori Algorithm is a widely-used and well-known Association Rule algorithm and is a popular algorithm used in market basket analysis, Association Rule Mining is a technique that shows how items are associated with each other.
 
 This part Includes:
 1. Perform transactional Encoding
 2. Set Minimum threshold 
-3. 
+3. Apply the Apriori algorithm to find frequent itemsets
 4. Set Rules
 
 PERFORM TRANSACTIONAL ENCODING
-Transaction encoding is the process of converting transactional data into a binary matrix format where rows represent transactions and columns represent unique items. Each cell in the matrix indicates whether a particular item was present (1) or absent (0) in a transaction.This essential so the computer understand and perform the 
+Transaction encoding is the process of converting transactional data into a binary matrix format where rows represent transactions and columns represent unique items. Each cell in the matrix indicates whether a particular item was present (1) or absent (0) in a transaction. This is essential so the computational purposes.
 
 ### APRIORI ALGORITHM
 The Apriori algorithm is a commonly used algorithm for association rule mining. It uses a breadth-first search strategy to discover frequent itemsets and generate association rules efficiently. It uses the frequent itemset to generate the Association rule and it is based on the concept that subset of a frequent item set must also be a frequent item itself, So what exactly is frequent, Frequent Itemset is an Item whose support values is greater than a threshold ValueS.
@@ -99,7 +99,7 @@ INSIGHT 3. After setting Rule to the Highest lift and Confidence, Only one subse
 This means that any customers who purchase sausage, whole milk, soda will definately purchase rolls/buns.
 ## PART 5 - RECOMMENDATION 
 
-This Product Recommendation Analysis ( Market Basket Analysis) has provided list of Items and subset Item that are frequently purchased together ,My Recommmedation are.
+This Product Recommendation Analysis ( Market Basket Analysis) has provided list of Items and subset Item that are frequently purchased together,My Recommmedation are.
 
 1. Since whole milk has been seen to have higher hold on customers, Hence the product should be made available up to 500%.
 2. The most subset that has 150% likelyhood of being pick together is sausage, whole milk, soda and rolls/buns should be place together on the Stall 
