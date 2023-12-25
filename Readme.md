@@ -1,5 +1,5 @@
 # FLIT-PROJECT- MARKET BASKET ANALYSIS IMPLEMENTATION
-!![Market_Analysis](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/d0e4b8b9-de00-4e6e-b71e-5b28ea677433)
+![Market_Analysis](https://github.com/Bumzeal/FLIT-PROJECT-1/assets/78567274/d0e4b8b9-de00-4e6e-b71e-5b28ea677433)
 
 
 Product recommendation is a great way to drive sales by offering customers relevant products of interest. Different algorithms are used to generate product recommendations, For this Project, I Used — Association Rules (Market Basket Analysis).
